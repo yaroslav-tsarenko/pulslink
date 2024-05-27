@@ -1,0 +1,126 @@
+.image-icon6 {
+  position: absolute;
+  right: 1px;
+  bottom: 1px;
+  border-radius: 16px;
+  width: 180px;
+  height: 40px;
+}
+.esim1 {
+  position: absolute;
+  top: 41px;
+  left: 105px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  width: 32px;
+  height: 20px;
+  min-width: 32px;
+}
+.united-statespng-icon {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(2.667);
+}
+.wrapper-united-statespng {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 37px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eur,
+.from-600,
+.usa1 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 43px;
+}
+.eur,
+.from-600 {
+  min-width: 105.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.eur {
+  line-height: 16px;
+  font-weight: 700;
+  min-width: 26.1px;
+}
+.price-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  font-size: 12px;
+}
+.pricing-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+  font-size: 20px;
+}
+.information {
+  flex-direction: column;
+  gap: 4px;
+}
+.country,
+.destination-card,
+.information {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.destination-card {
+  flex-direction: column;
+  padding: 6px 0 0;
+}
+.country {
+  position: absolute;
+  top: 59px;
+  left: 33px;
+  height: 66px;
+  flex-direction: row;
+  gap: 24px;
+  font-size: 22px;
+  color: #000;
+}
+.link-usa {
+  height: 166px;
+  width: 368px;
+  position: relative;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .from-600,
+  .usa1 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .from-600 {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,147 @@
+.link-best-esim-saint-petersb {
+  align-self: stretch;
+  height: 199.1px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.c2fac105bb224b98509031dcfbec7e-icon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.c2fac105bb224b98509031dcfbec7e-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.leoneska-ruiz {
+  position: relative;
+  line-height: 14px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 90px;
+}
+.leoneska-ruiz-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 4px;
+}
+.image-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-parent67,
+.frame-parent68 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.5px;
+}
+.frame-parent67 {
+  gap: 10px;
+}
+.best-esim-for,
+.one-to-buy {
+  margin: 0;
+}
+.best-esim-for-container {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.flexiroam-and-holafly,
+.mobile-in-your,
+.we-compared-the {
+  display: block;
+}
+.we-compared-the-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  color: #292b2e;
+}
+.best-esim-for-saint-petersburg-parent,
+.frame-parent66 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.best-esim-for-saint-petersburg-parent {
+  gap: 15px;
+  font-size: 18px;
+}
+.frame-parent66 {
+  gap: 19px;
+}
+.footer-november {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 102.6px;
+}
+.footer-november-2023-wrapper {
+  flex-direction: row;
+  padding: 0 2px;
+  font-size: 14px;
+  color: #56575a;
+}
+.article-inner,
+.article1,
+.footer-november-2023-wrapper,
+.frame-parent65 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent65 {
+  flex: 1;
+  flex-direction: column;
+  gap: 51px;
+}
+.article-inner,
+.article1 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.article-inner {
+  width: 373.3px;
+  flex-direction: row;
+  padding: 0 28px;
+}
+.article1 {
+  align-self: stretch;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: transparent;
+  border: 1px solid #e4e6ea;
+  flex-direction: column;
+  padding: 0 0 19px;
+  gap: 26.4px;
+  text-align: left;
+  font-size: 13.8px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .frame-parent65 {
+    gap: 25px;
+  }
+}

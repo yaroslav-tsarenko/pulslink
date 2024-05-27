@@ -1,0 +1,1808 @@
+.image-8-layerstyle-icon,
+.pulselink-icon {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.image-8-layerstyle-icon {
+  height: 31px;
+  width: 31px;
+}
+.pulselink-icon {
+  align-self: stretch;
+  height: 21.6px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.pulselink-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.7px 0 0;
+}
+.image-8-layerstyle-parent {
+  width: 152.1px;
+  flex-direction: row;
+  gap: 11.4px;
+}
+.holafly-logosvg,
+.holafly-logosvg-wrapper,
+.image-8-layerstyle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.holafly-logosvg {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 4px 5px 0;
+}
+.holafly-logosvg-wrapper {
+  width: 166px;
+  flex-direction: column;
+  padding: 13px 0 0;
+  box-sizing: border-box;
+}
+.item-link10,
+.item-link9 {
+  text-decoration: none;
+  position: relative;
+  line-height: 18.4px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 90.7px;
+}
+.item-link10 {
+  min-width: 66.2px;
+  white-space: nowrap;
+}
+.item-link11 {
+  line-height: 18.4px;
+  min-width: 38.8px;
+}
+.item-link11,
+.item-link12,
+.item-link13 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.item-link12 {
+  font-size: 15.8px;
+  line-height: 19px;
+  min-width: 59px;
+}
+.item-link13 {
+  line-height: 18.4px;
+  min-width: 80.5px;
+  white-space: nowrap;
+}
+.frame-parent6,
+.nav-list {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.nav-list {
+  margin: 0;
+  padding: 25.6px 0 27.4px;
+  box-sizing: border-box;
+  gap: 36.5px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+.frame-parent6 {
+  gap: 64px;
+}
+.link3 {
+  align-self: stretch;
+  height: 40px;
+}
+.link-wrapper {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 8px 0 0;
+  box-sizing: border-box;
+}
+.languagesvg-icon1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 16px;
+}
+.en-eur1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 16.1px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 86.7px;
+}
+.button8 {
+  flex: 1;
+  border-radius: 12px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 11.9px 13px 12px;
+  gap: 8px;
+  white-space: nowrap;
+}
+.vertical-divider1 {
+  width: 1px;
+  height: 12px;
+  position: relative;
+  background-color: #e4e6ea;
+}
+.vertical-divider-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.button-icon1 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: 12px;
+  min-height: 40px;
+}
+.carritooksvg-icon1 {
+  position: absolute;
+  top: 5.8px;
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.a {
+  text-decoration: none;
+  position: relative;
+  line-height: 9.2px;
+  color: inherit;
+  display: inline-block;
+  min-width: 5px;
+}
+.background8 {
+  position: absolute;
+  top: 8px;
+  right: 13px;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 10px;
+  height: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 2px 1px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.button9 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: 12px;
+  background-color: #fff;
+  font-size: 8px;
+}
+.button-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 8px;
+}
+.button-parent,
+.frame-wrapper4,
+.group-div,
+.header-wrapper,
+.header1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper4 {
+  width: 242px;
+  flex-direction: column;
+  padding: 16px 0 0;
+  box-sizing: border-box;
+}
+.group-div,
+.header-wrapper,
+.header1 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.group-div {
+  width: 1477px;
+}
+.header-wrapper,
+.header1 {
+  box-sizing: border-box;
+}
+.header1 {
+  flex: 1;
+  background-color: #fff;
+  border-bottom: 1px solid #e2e7eb;
+  padding: 3px 203px 2px;
+  z-index: 1;
+}
+.header-wrapper {
+  align-self: stretch;
+  padding: 0 0 28.9px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 14px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+.heading-11 {
+  width: 240.3px;
+  position: relative;
+  line-height: 68px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading-1-mobile-internet-wrapper {
+  width: 832.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+}
+.heading-33 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.item-link14 {
+  color: inherit;
+  text-decoration: none;
+}
+.best-prepaid-sim1,
+.item-link14,
+.item-link15,
+.the-usa-in1 {
+  position: relative;
+  line-height: 25.6px;
+}
+.best-prepaid-sim1,
+.the-usa-in1 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.the-usa-in1 {
+  display: inline-block;
+  min-width: 116.5px;
+}
+.best-prepaid-sim-cards-for-tra-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link16,
+.item-link17 {
+  position: relative;
+  line-height: 25.6px;
+}
+.frame-wrapper7,
+.item-link-what-is-esim-an-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link-what-is-esim-an-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+}
+.frame-wrapper7 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 21px;
+  font-size: 16px;
+}
+.frame-wrapper6,
+.heading-3-popular-posts-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-popular-posts-group {
+  align-self: stretch;
+  gap: 22.2px;
+}
+.frame-wrapper6 {
+  height: 439.5px;
+  width: 298.8px;
+}
+.frame-parent9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+  font-size: 28px;
+  color: #000;
+}
+.link-mobile-internet-china-7 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.best-option,
+.mobile-internet-in {
+  margin: 0;
+}
+.mobile-internet-in-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.mobile-internet-in-china-what-wrapper {
+  width: 395.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-leoneska-ruiz2 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+}
+.by-leoneska-ruiz-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 11.8px;
+  color: #000;
+}
+.get-mobile-internet,
+.if-you-are,
+.wide-variety-of {
+  display: block;
+}
+.if-you-are-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read4 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button10 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.button10:hover,
+.button11:hover,
+.button12:hover,
+.button13:hover,
+.button14:hover,
+.button15:hover,
+.button16:hover,
+.button17:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #8a5c87;
+  box-sizing: border-box;
+}
+.if-you-are-traveling-to-china-parent {
+  flex-direction: column;
+  gap: 20.6px;
+}
+.frame-wrapper8,
+.if-you-are-traveling-to-china-parent,
+.link-mobile-internet-china-7-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper8 {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.link-mobile-internet-china-7-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10.5px;
+  min-width: 265px;
+}
+.link-use-cell-phone-uk-768x3 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.it,
+.use-cell-phone {
+  margin: 0;
+}
+.use-cell-phone-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.by-leoneska-ruiz3 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.if-your-next,
+.the-uk-and,
+.wondering-if-youll {
+  display: block;
+}
+.if-your-next-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 19.2px;
+  color: #292b2e;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.by-leoneska-ruiz-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  gap: 12px;
+  font-size: 11.8px;
+  color: #000;
+}
+.link-read5 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button11 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.use-cell-phone-in-the-uk-how-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 9.6px;
+}
+.frame-wrapper9,
+.link-use-cell-phone-uk-768x3-parent,
+.use-cell-phone-in-the-uk-how-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper9 {
+  width: 397.7px;
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-use-cell-phone-uk-768x3-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 9.8px;
+  min-width: 265px;
+}
+.frame-parent10 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.link-pocket-wifi-turkey-768x {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.best-pocket-wifi,
+.much-does-it {
+  margin: 0;
+}
+.best-pocket-wifi-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.best-pocket-wifi-for-turkey-h-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-julio-osuna1 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 80.9px;
+}
+.by-julio-osuna-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 12px;
+  color: #000;
+}
+.there-are-for,
+.turkey-where-to,
+.want-to-know {
+  display: block;
+}
+.want-to-know-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read6 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button12 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.want-to-know-more-about-pocket-parent {
+  flex-direction: column;
+  gap: 20.6px;
+}
+.frame-wrapper10,
+.link-pocket-wifi-turkey-768x-parent,
+.want-to-know-more-about-pocket-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper10 {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.link-pocket-wifi-turkey-768x-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10.4px;
+  min-width: 265px;
+}
+.link-mobile-internet-haiti-7 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.best-option1,
+.mobile-internet-in1 {
+  margin: 0;
+}
+.mobile-internet-in-container1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.mobile-internet-in-haiti-what-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-carolina-s {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 74.9px;
+}
+.by-carolina-s-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 12px;
+  color: #000;
+}
+.coverage-and,
+.internet-for-haiti,
+.learn-everything-you {
+  display: block;
+}
+.learn-everything-you-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read7 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button13 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.learn-everything-you-need-to-k-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 20.6px;
+}
+.frame-wrapper11,
+.learn-everything-you-need-to-k-parent,
+.link-mobile-internet-haiti-7-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper11 {
+  width: 381.1px;
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.link-mobile-internet-haiti-7-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10.4px;
+  min-width: 265px;
+}
+.frame-parent11 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.link-friends-connect-cellpho {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-does {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-does-personal-hotspot-c-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 21px 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-manuel-m1 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 72.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.by-manuel-m-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 18.6px;
+}
+.by-manuel-m-group,
+.frame-wrapper12,
+.link-friends-connect-cellpho-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper12 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 18px 0 13px;
+  box-sizing: border-box;
+  font-size: 11.8px;
+  color: #000;
+}
+.link-friends-connect-cellpho-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 16.3px;
+  min-width: 265px;
+}
+.frame-parent12 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.link-how-to-get-internet-abr {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-how {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.by-admin {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 50.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.abroad-in-2024,
+.find-out-how,
+.you-all-the {
+  display: block;
+}
+.find-out-how-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 19.2px;
+  color: #292b2e;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.by-admin-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  gap: 18.6px;
+  font-size: 12px;
+  color: #000;
+}
+.link-read8 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button14 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.link-how-to-get-internet-abr-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 16.2px;
+}
+.frame-wrapper13,
+.link-how-to-get-internet-abr-group,
+.link-how-to-get-internet-abr-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper13 {
+  width: 388.1px;
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-how-to-get-internet-abr-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 16.4px;
+  min-width: 265px;
+}
+.frame-parent13,
+.frame-parent14 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.link-interner-for-travel-tra,
+.link-internet {
+  position: relative;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.link-interner-for-travel-tra {
+  align-self: stretch;
+  height: 224px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.link-internet {
+  margin: 0;
+  flex: 1;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.link-interner-for-travel-tra-parent,
+.link-internet-for-travel-tra-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-internet-for-travel-tra-wrapper {
+  width: 387.9px;
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-interner-for-travel-tra-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 16.4px;
+  min-width: 265px;
+}
+.link-how-to-get-mobile-inter {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.how-to-get,
+.what-is-the {
+  margin: 0;
+}
+.how-to-get-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.how-to-get-mobile-internet-in-wrapper,
+.link-how-to-get-mobile-inter-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-to-get-mobile-internet-in-wrapper {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-how-to-get-mobile-inter-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 9.8px;
+  min-width: 265px;
+}
+.frame-parent16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.by-admin1,
+.by-julio-osuna2 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 80.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.by-admin1 {
+  min-width: 50.3px;
+}
+.by-admin-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-top: -6px;
+}
+.by-julio-osuna-parent {
+  width: 474.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.expensive-international-roamin,
+.israel-that-will,
+.we-are-going {
+  display: block;
+}
+.we-are-going-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read9 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button15,
+.we-are-going-to-tell-you-all-a-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button15 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.we-are-going-to-tell-you-all-a-parent {
+  flex-direction: column;
+  gap: 20.5px;
+  min-width: 368.6999999999971px;
+  max-width: 100%;
+}
+.frame-parent18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 16px;
+  color: #292b2e;
+}
+.frame-parent17 {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.4px;
+}
+.frame-parent15,
+.frame-parent17,
+.frame-parent19,
+.frame-wrapper14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper14 {
+  width: 819.2px;
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  margin-top: -3.6px;
+  font-size: 12px;
+  color: #000;
+}
+.frame-parent15,
+.frame-parent19 {
+  width: 833px;
+  flex-direction: column;
+}
+.frame-parent19 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.link-what-is-airplane-mode-1 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.and-how-to,
+.what-is-airplane {
+  margin: 0;
+}
+.what-is-airplane-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.what-is-airplane-mode-what-is-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-leoneska-ruiz4 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+}
+.by-leoneska-ruiz-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 11.8px;
+  color: #000;
+}
+.do-you-know,
+.essential-functions-and,
+.the-wonders-of {
+  display: block;
+}
+.do-you-know-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read10 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button16,
+.do-you-know-what-airplane-mode-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button16 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.do-you-know-what-airplane-mode-parent {
+  flex-direction: column;
+  gap: 20.5px;
+  max-width: 100%;
+}
+.frame-wrapper15 {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.frame-parent20,
+.frame-wrapper15,
+.link-what-is-airplane-mode-1-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-what-is-airplane-mode-1-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10.5px;
+  min-width: 265px;
+}
+.frame-parent20 {
+  width: 833px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.link-santiago-de-chile-airpo {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.connect-easily,
+.santiago-de-chile {
+  display: block;
+}
+.santiago-de-chile-container1 {
+  width: 100%;
+}
+.santiago-de-chile-container {
+  margin: 0;
+  width: 328.1px;
+  position: relative;
+  line-height: 26.4px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.by-admin2 {
+  position: relative;
+  font-size: 12px;
+  line-height: 19.2px;
+  color: #000;
+  display: inline-block;
+  min-width: 50.3px;
+}
+.chiles-airport-and,
+.read-all-about,
+.when-lo {
+  display: block;
+}
+.read-all-about-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 19.2px;
+}
+.santiago-de-chile-airport-wifi-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10.8px;
+  max-width: 100%;
+}
+.link-read11 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button17,
+.frame-parent22,
+.frame-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button17 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.frame-parent22,
+.frame-wrapper16 {
+  max-width: 100%;
+}
+.frame-parent22 {
+  flex: 1;
+  flex-direction: column;
+  gap: 20.6px;
+}
+.frame-wrapper16 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 14px 0 13px;
+  box-sizing: border-box;
+}
+.link-santiago-de-chile-airpo-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 9.8px;
+  min-width: 265px;
+}
+.frame-parent21,
+.frame-parent8,
+.link-santiago-de-chile-airpo-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent21 {
+  width: 833px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.frame-parent8 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 51px;
+  box-sizing: border-box;
+  gap: 43px;
+  font-size: 22px;
+  color: #292b2e;
+}
+.div3 {
+  width: 12px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.backgroundborder {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #bfebff;
+  border: 1px solid #bfebff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 6px 2px 12px;
+}
+.backgroundborder-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.div4 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 12px;
+}
+.link-container,
+.link4 {
+  display: flex;
+  align-items: flex-start;
+}
+.link4 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #bfebff;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 2px 8px 2px 10px;
+}
+.link-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.div5 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 12px;
+}
+.link-frame,
+.link5 {
+  display: flex;
+  align-items: flex-start;
+}
+.link5 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #bfebff;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 2px 8px 2px 10px;
+}
+.link-frame {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.div6,
+.div7 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 14px;
+}
+.div7 {
+  min-width: 12px;
+}
+.link-wrapper1,
+.link6 {
+  display: flex;
+  align-items: flex-start;
+}
+.link6 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #bfebff;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 2px 8px 2px 10px;
+}
+.link-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.frame-parent23 {
+  width: 203.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 15.5px;
+}
+.frame-parent7,
+.frame-wrapper17 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper17 {
+  width: 800.5px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.frame-parent7 {
+  width: 1210px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.background-parent,
+.frame-wrapper5 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper5 {
+  width: 1894px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.background-parent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 16.3px;
+  gap: 53.3px;
+  text-align: left;
+  font-size: 34px;
+  color: #000;
+  font-family: Roboto;
+}
+.heading-34 {
+  position: relative;
+  line-height: 21.53px;
+  font-weight: 700;
+}
+.asia2,
+.caribbean2,
+.europe3,
+.latin-america2,
+.north-america2,
+.united-kingdom2 {
+  display: block;
+}
+.item-link-container3 {
+  width: 100%;
+}
+.item-link-container2 {
+  margin: 0;
+  width: 136.3px;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+.button18 {
+  width: 176.3px;
+  height: 52px;
+}
+.background7 {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 50px;
+  box-sizing: border-box;
+  gap: 0.1px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18.7px;
+  color: #000;
+  font-family: Roboto;
+}
+.image-icon2 {
+  width: 1px;
+  height: 1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  display: none;
+}
+.internetblog {
+  width: 100%;
+  position: relative;
+  background-color: #f4f4f4;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1825px) {
+  .nav-list {
+    display: none;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .frame-parent6 {
+    gap: 32px;
+  }
+  .header1 {
+    padding-left: 101px;
+    padding-right: 101px;
+    box-sizing: border-box;
+  }
+  .background7,
+  .frame-parent8 {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .nav-list {
+    gap: 18px;
+  }
+  .frame-parent6 {
+    gap: 16px;
+  }
+  .header1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+  }
+  .heading-11 {
+    font-size: 27px;
+    line-height: 54px;
+  }
+  .we-are-going-to-tell-you-all-a-parent {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frame-parent18 {
+    flex-wrap: wrap;
+  }
+  .frame-parent8 {
+    gap: 21px;
+  }
+  .background-parent {
+    gap: 27px;
+  }
+  .internetblog {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-11 {
+    font-size: 20px;
+    line-height: 41px;
+  }
+  .heading-33 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  .best-pocket-wifi-container,
+  .how-to-get-container,
+  .link-does,
+  .link-how,
+  .link-internet,
+  .mobile-internet-in-container,
+  .mobile-internet-in-container1,
+  .santiago-de-chile-container,
+  .use-cell-phone-container,
+  .what-is-airplane-container {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .div3,
+  .div4,
+  .div5,
+  .div6,
+  .div7 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

@@ -1,0 +1,141 @@
+.esim-internet-bosnia-and-herze-icon {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.bosnia-and,
+.herzegovina {
+  margin: 0;
+}
+.bosnia-and-herzegovina-container {
+  position: relative;
+  line-height: 28.8px;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.bosnia-and-herzegovina-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px;
+}
+.div223,
+.div224 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 100;
+  display: inline-block;
+  min-width: 89.2px;
+  white-space: nowrap;
+}
+.div224 {
+  text-decoration: line-through;
+  line-height: 18px;
+  min-width: 48.3px;
+}
+.wrapper31 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 6px 3.5px 0;
+  font-size: 15px;
+  color: #c0c3c5;
+}
+.eur36 {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  min-width: 23px;
+}
+.eur-wrapper27 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.5px;
+  font-size: 12px;
+}
+.frame-wrapper45,
+.parent33 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-wrapper45 {
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.image-icon49 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent82 {
+  flex: 1;
+  gap: 14.5px;
+  debug_commit: bf4bc93;
+  font-size: 30px;
+}
+.frame-parent81,
+.frame-parent82,
+.item59 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent81 {
+  height: 191px;
+  gap: 33.9px;
+  debug_commit: bf4bc93;
+}
+.item59 {
+  height: 508px;
+  box-shadow: 0 14px 54px rgba(0, 0, 0, 0.1);
+  border-radius: 28px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 0 0 208px;
+  box-sizing: border-box;
+  gap: 22px;
+  text-align: left;
+  font-size: 24px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 925px) {
+  .div223 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .item59 {
+    padding-bottom: 135px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bosnia-and-herzegovina-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div223 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .frame-parent81 {
+    gap: 17px;
+  }
+}

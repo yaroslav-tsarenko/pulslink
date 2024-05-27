@@ -1,0 +1,129 @@
+.link-best-pocket-wifi-switze {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link-best {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.link-best-pocket-wifi-for-sw-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-julio-osuna5 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 80.9px;
+}
+.by-julio-osuna-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 12px;
+  color: #000;
+}
+.alternatives-there-are,
+.switzerland-where-to,
+.want-to-know1 {
+  display: block;
+}
+.want-to-know-container1 {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read21 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button34,
+.want-to-know-more-about-pocket-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button34 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.button34:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #8a5c87;
+  box-sizing: border-box;
+}
+.want-to-know-more-about-pocket-group {
+  flex-direction: column;
+  gap: 27.2px;
+  max-width: 100%;
+}
+.frame-wrapper35,
+.link-best-pocket-wifi-switze-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+}
+.link-best-pocket-wifi-switze-parent {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 62px 0 0;
+  gap: 17px;
+  min-width: 306px;
+  text-align: left;
+  font-size: 22px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 925px) {
+  .link-best-pocket-wifi-switze-parent {
+    padding-right: 31px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-best {
+    font-size: 18px;
+    line-height: 21px;
+  }
+}

@@ -1,0 +1,141 @@
+.egyptpng-icon {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(2.667);
+}
+.wrapper-egyptpng {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-radius: 37px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-egyptpng-wrapper {
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+  box-sizing: border-box;
+}
+.egypt,
+.esim2,
+.eur1,
+.from-2700 {
+  position: relative;
+  display: inline-block;
+}
+.esim2 {
+  line-height: 20px;
+  color: #292b2e;
+  min-width: 32px;
+}
+.egypt,
+.eur1,
+.from-2700 {
+  line-height: 28px;
+  font-weight: 500;
+}
+.egypt {
+  margin: 0;
+  font-size: 22px;
+  font-family: inherit;
+  min-width: 59.1px;
+}
+.eur1,
+.from-2700 {
+  min-width: 113.4px;
+}
+.eur1 {
+  line-height: 16px;
+  font-weight: 700;
+  min-width: 26.1px;
+}
+.currency {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  font-size: 12px;
+}
+.cost {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+}
+.image-icon7 {
+  height: 40px;
+  width: 180px;
+  position: relative;
+  border-radius: 16px;
+}
+.flag-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.pricing {
+  align-self: stretch;
+  flex-direction: column;
+  font-size: 20px;
+}
+.esim-parent,
+.link-egypt,
+.pricing {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.esim-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 170px;
+}
+.link-egypt {
+  width: 368px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 39px 0 0 32px;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .egypt,
+  .from-2700 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .from-2700 {
+    font-size: 16px;
+  }
+  .link-egypt {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

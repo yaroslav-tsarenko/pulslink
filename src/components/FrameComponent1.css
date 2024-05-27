@@ -1,0 +1,136 @@
+.dotlottie-player-img-lotti {
+  width: 360px;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  max-width: 100%;
+}
+.get-online-right,
+.plan-as-soon {
+  display: block;
+}
+.get-online-right-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.arrival,
+.your-phone-will {
+  display: block;
+}
+.your-phone-will-container1 {
+  width: 100%;
+}
+.your-phone-will-container {
+  margin: 0;
+  width: 485.3px;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.connection-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.link40 {
+  width: 240px;
+  height: 46px;
+}
+.connection-details,
+.connection-details-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.connection-details {
+  align-self: stretch;
+  gap: 25px;
+}
+.connection-details-wrapper {
+  width: 512.2px;
+  padding: 86.5px 0 0;
+  box-sizing: border-box;
+  min-width: 512.2000000000007px;
+}
+.container52 {
+  width: 1440px;
+  border-radius: 16px;
+  justify-content: space-between;
+  padding: 40px 98px 40px 256px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.background-wrapper,
+.background38,
+.container52 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.background38 {
+  flex: 1;
+  background-color: #f9f9f9;
+  justify-content: center;
+}
+.background-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 77.1px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 22px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .connection-details-wrapper,
+  .dotlottie-player-img-lotti {
+    flex: 1;
+  }
+  .container52 {
+    flex-wrap: wrap;
+    padding-left: 128px;
+    padding-right: 49px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .connection-details-wrapper {
+    min-width: 100%;
+  }
+  .container52 {
+    padding-left: 64px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .background-wrapper {
+    padding-bottom: 50px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .get-online-right-container {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .container52 {
+    padding-left: 20px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    box-sizing: border-box;
+  }
+}

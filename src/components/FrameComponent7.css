@@ -1,0 +1,63 @@
+.how-to-install2 {
+  position: relative;
+  line-height: 22px;
+}
+.vectorsvg-icon14 {
+  width: 6.3px;
+  height: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.section-link-heading-318,
+.vectorsvg-wrapper9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.9px 0 0;
+}
+.section-link-heading-318 {
+  flex: 1;
+  border-radius: 16px;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 39px 23px 35px;
+  min-width: 460px;
+  max-width: 100%;
+  gap: 20px;
+}
+.section-link-heading-3-parent6,
+.section-link-heading-319 {
+  max-width: 100%;
+  font-size: 16px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+.section-link-heading-319 {
+  border: 0;
+  background-color: transparent;
+  height: 70.7px;
+  flex: 1;
+  min-width: 460px;
+}
+.section-link-heading-3-parent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  flex-shrink: 0;
+  text-align: left;
+}
+@media screen and (max-width: 925px) {
+  .section-link-heading-318,
+  .section-link-heading-319 {
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,71 @@
+.edgesensor-highsvg-icon {
+  height: 40px;
+  width: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.benefit-icons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 25px 0 20px;
+}
+.heading-35 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.benefit-titles {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px 0 12px;
+}
+.get-that-safe,
+.restaurant-and-pin,
+.staying-connected-with {
+  display: block;
+}
+.get-that-safe-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  color: #62666b;
+}
+.benefit-headings,
+.benefit-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefit-headings {
+  align-self: stretch;
+  gap: 8px;
+}
+.benefit-items {
+  width: 301.9px;
+  gap: 16px;
+  text-align: center;
+  font-size: 20px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .heading-35 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

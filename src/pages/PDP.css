@@ -1,0 +1,52 @@
+.background {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 70px;
+  box-sizing: border-box;
+  gap: 30px;
+  max-width: 100%;
+}
+.image-icon {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -94.6px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.pdp {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #f4f4f4;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 76.3px;
+  box-sizing: border-box;
+  gap: 191.9px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .background {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .pdp {
+    gap: 96px;
+  }
+}
+@media screen and (max-width: 925px) {
+  .pdp {
+    gap: 48px;
+  }
+}

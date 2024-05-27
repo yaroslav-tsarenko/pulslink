@@ -1,0 +1,285 @@
+.heading-256 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.1px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.e-s-i-m-question {
+  width: 553.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.no-phone-number-localsvg-icon {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-310 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.contacts,
+.this-esim-only,
+.to-make-cell,
+.you-can-still {
+  display: block;
+}
+.this-esim-only-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 20.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.backgroundborder4,
+.e-s-i-m-arrival {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24.8px;
+  max-width: 100%;
+}
+.backgroundborder4 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #dde1e8;
+  box-sizing: border-box;
+  padding: 39px 41px 40px;
+  gap: 12.4px;
+  min-width: 341px;
+}
+.phone-magicsvg-icon {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-311 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27.6px;
+  font-weight: 700;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.compatible-with-esim1,
+.make-sure-your {
+  display: block;
+}
+.make-sure-your-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 20.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-3-your-phone-must-su-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12.4px;
+}
+.check-compatible-devices {
+  margin-top: -1.1999999999970896px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 18.4px;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.full-arrowsvg-icon,
+.link12 {
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link12 {
+  height: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.full-arrowsvg-icon {
+  height: 12px;
+  width: 17px;
+  position: relative;
+}
+.link-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 14.4px;
+  font-size: 16px;
+  color: #292b2e;
+}
+.backgroundborder5,
+.frame-parent53 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19.8px;
+  max-width: 100%;
+}
+.backgroundborder5 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #dde1e8;
+  box-sizing: border-box;
+  padding: 39px 41px 46px;
+  gap: 25.2px;
+  min-width: 341px;
+}
+.tethering-share-data-esim-hola-icon {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-312 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.hotspot-with-other,
+.this-esim-does {
+  display: block;
+}
+.this-esim-does-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 20.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-3-no-data-sharing-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24.8px;
+}
+.backgroundborder6 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #dde1e8;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 39px 40px 82px 41px;
+  gap: 12.4px;
+  min-width: 341px;
+}
+.backgroundborder6,
+.plan-renewal,
+.section2,
+.user-reviews {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.plan-renewal {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 24px;
+}
+.section2,
+.user-reviews {
+  box-sizing: border-box;
+}
+.section2 {
+  flex: 1;
+  background-color: #f8f8fb;
+  flex-direction: column;
+  padding: 79.5px 257px 50px;
+  gap: 30.5px;
+}
+.user-reviews {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 90px;
+  text-align: left;
+  font-size: 34px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .section2 {
+    padding-left: 128px;
+    padding-right: 128px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-256 {
+    font-size: 27px;
+    line-height: 31px;
+  }
+  .backgroundborder4,
+  .backgroundborder5,
+  .backgroundborder6 {
+    min-width: 100%;
+  }
+  .section2 {
+    gap: 15px;
+    padding: 52px 64px 32px;
+    box-sizing: border-box;
+  }
+  .user-reviews {
+    padding-bottom: 58px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-256 {
+    font-size: 20px;
+    line-height: 23px;
+  }
+  .heading-310,
+  .heading-311,
+  .heading-312 {
+    font-size: 19px;
+    line-height: 22px;
+  }
+}

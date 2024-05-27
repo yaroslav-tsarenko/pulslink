@@ -1,0 +1,375 @@
+.how-does-pulselinkpluss,
+.how-it-works-title {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.how-does-pulselinkpluss {
+  margin: 0;
+  width: 484.5px;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.how-it-works-title {
+  width: 908.8px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.phone-and-cart-desktopsvg-icon {
+  width: 360px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.buy-your-data,
+.check-that-your {
+  display: block;
+}
+.check-that-your-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.destination-and-buy,
+.your-phone-must {
+  display: block;
+}
+.your-phone-must-container1 {
+  width: 100%;
+}
+.your-phone-must-container {
+  margin: 0;
+  width: 453.5px;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  color: #292b2e;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.check-that-your-device-is-esim-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.check-compatibility {
+  margin-top: -3px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 129px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.check-compatibility-link,
+.link39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link39 {
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  debug_commit: bf4bc93;
+}
+.check-compatibility-link {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.right-arrowsvg-icon {
+  height: 12px;
+  width: 17px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.compatibility-link-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: #292b2e;
+}
+.check-instructions,
+.instruction-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.instruction-details {
+  align-self: stretch;
+  gap: 27px;
+}
+.check-instructions {
+  width: 478.3px;
+  padding: 101.5px 0 0;
+  box-sizing: border-box;
+  min-width: 478.2999999999993px;
+}
+.vertical-divider2 {
+  width: 2px;
+  height: 1043px;
+  position: relative;
+  background-color: #e4e6ea;
+  display: none;
+  z-index: 0;
+}
+.vertical-divider3 {
+  width: 2px;
+  height: 2623.2px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -1812.2px;
+  left: calc(50% - 1px);
+  background-color: #2a2b2d;
+  z-index: 1;
+}
+.background32 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  background-color: #fff;
+  width: 12px;
+  height: 4px;
+}
+.background31 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #292b2e;
+  z-index: 2;
+}
+.background34,
+.background35 {
+  position: absolute;
+  left: 0;
+  background-color: #f8f8fa;
+  width: 12px;
+  height: 4px;
+}
+.background34 {
+  bottom: 12px;
+}
+.background35 {
+  top: 12px;
+}
+.background33 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #292b2e;
+  z-index: 2;
+}
+.background37 {
+  position: absolute;
+  bottom: 12px;
+  left: 0;
+  background-color: #f8f8fa;
+  width: 12px;
+  height: 4px;
+}
+.background36 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #292b2e;
+  z-index: 2;
+}
+.gradient-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 399.2px;
+}
+.compatibility-check,
+.container51,
+.gradient-container {
+  display: flex;
+  align-items: flex-start;
+}
+.container51 {
+  margin: 0 !important;
+  position: absolute;
+  bottom: -643px;
+  left: 439.5px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 232px 9px 0;
+  gap: 375.8px;
+  z-index: 1;
+}
+.compatibility-check {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+}
+.e-sim-explanation,
+.how-it-works {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-it-works {
+  flex: 1;
+  flex-direction: column;
+}
+.e-sim-explanation {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 30px;
+  box-sizing: border-box;
+}
+.heading-34 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.installation-and-activation,
+.please-check-the,
+.upon-purchasing-your {
+  display: block;
+}
+.please-check-the-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #292b2e;
+}
+.instruction-container,
+.instruction-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instruction-content {
+  gap: 16px;
+}
+.instruction-container {
+  padding: 112.5px 0 0;
+  box-sizing: border-box;
+  min-width: 346.7000000000007px;
+  max-width: 100%;
+}
+.traveler-desktopsvg-icon {
+  width: 360px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.landing-instructions {
+  width: 965.6px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+}
+.e-sim-container,
+.e-sim-container-wrapper,
+.landing-instructions {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.e-sim-container {
+  width: 1075.3px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.e-sim-container-wrapper {
+  width: 1814.1px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 34px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .check-instructions,
+  .phone-and-cart-desktopsvg-icon {
+    flex: 1;
+  }
+  .compatibility-check {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 925px) {
+  .how-does-pulselinkpluss {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .check-instructions {
+    min-width: 100%;
+  }
+  .instruction-container,
+  .traveler-desktopsvg-icon {
+    flex: 1;
+  }
+  .landing-instructions {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-does-pulselinkpluss {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .check-that-your-container,
+  .heading-34 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .instruction-container {
+    min-width: 100%;
+  }
+}

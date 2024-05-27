@@ -1,0 +1,394 @@
+.svg {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  display: none;
+}
+.from-sim-chaos {
+  margin: 0;
+  height: 94.2px;
+  width: 1045.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 55.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.from-sim-chaos-to-esim-control-wrapper {
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.image-icon14 {
+  width: 244.8px;
+  height: 248.6px;
+  position: relative;
+  object-fit: contain;
+  display: none;
+}
+.saffron {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 61.3px;
+}
+.traditional-chinese-content {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 149px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.paragraphbackgroundshadow-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 116px;
+  box-sizing: border-box;
+  min-width: 176px;
+  min-height: 328px;
+}
+.lora {
+  width: 60.4px;
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.product-operation-specialist {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow1 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.princi {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 60.4px;
+}
+.esim-marketing-manager {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow2,
+.team-members {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paragraphbackgroundshadow2 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.team-members {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 176px;
+}
+.eliza {
+  width: 60.4px;
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.digital-account-executive {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow3 {
+  height: 444px;
+  width: 260px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 16px;
+  box-sizing: border-box;
+  background-image: url(/public/paragraphbackgroundshadow3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.edward,
+.ui-designer {
+  position: relative;
+  display: inline-block;
+}
+.edward {
+  line-height: 26px;
+  font-weight: 700;
+  min-width: 64.8px;
+}
+.ui-designer {
+  font-size: 14px;
+  line-height: 20px;
+  min-width: 73.6px;
+}
+.paragraphbackgroundshadow4 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.mark {
+  width: 69.9px;
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+.carrier-business-developer {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.paragraphbackgroundshadow5,
+.team-members1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paragraphbackgroundshadow5 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  justify-content: flex-end;
+  padding: 148px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.team-members1 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 176px;
+}
+.brenda,
+.content-manager {
+  position: relative;
+  display: inline-block;
+}
+.brenda {
+  line-height: 26px;
+  font-weight: 700;
+  min-width: 58.4px;
+}
+.content-manager {
+  font-size: 14px;
+  line-height: 20px;
+  min-width: 111.3px;
+}
+.paragraphbackgroundshadow6 {
+  align-self: stretch;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 150px 16px 16px;
+  background-image: url(/public/paragraphbackgroundshadow6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.button-icon1 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 6px;
+  transform: scale(2);
+}
+.wrapper-button {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 36px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-icon2 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 6px;
+  transform: scale(2);
+}
+.wrapper-button1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 36px;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper8,
+.wrapper-button-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.wrapper-button-parent {
+  height: 48px;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-wrapper8 {
+  justify-content: flex-end;
+  padding: 0 25px;
+}
+.paragraphbackgroundshadow-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64.3px;
+}
+.frame-wrapper7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3.7px;
+  box-sizing: border-box;
+  min-width: 176px;
+}
+.frame-parent13 {
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+}
+.background41 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 106px 20px 131.3px;
+  box-sizing: border-box;
+  gap: 80.6px;
+  background-image: url(/public/background@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .frame-parent13 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 925px) {
+  .from-sim-chaos {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .background41 {
+    gap: 40px;
+    padding-top: 69px;
+    padding-bottom: 85px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .from-sim-chaos {
+    font-size: 29px;
+    line-height: 33px;
+  }
+  .paragraphbackgroundshadow-parent {
+    gap: 32px;
+  }
+  .background41 {
+    gap: 20px;
+    padding-top: 45px;
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+}

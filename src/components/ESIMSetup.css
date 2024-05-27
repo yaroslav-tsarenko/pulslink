@@ -1,0 +1,167 @@
+.heading-313,
+.qr-mailsvg-icon {
+  position: relative;
+  max-width: 100%;
+}
+.qr-mailsvg-icon {
+  width: 360px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.heading-313 {
+  width: 750.4px;
+  line-height: 42px;
+  display: flex;
+  align-items: center;
+}
+.as-soon-as,
+.esim-and-get {
+  display: block;
+}
+.as-soon-as-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+}
+.physical-s-i-m {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  max-width: 100%;
+}
+.desktopsvg-icon,
+.installation-instructions-with {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.desktopsvg-icon {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  min-height: 24px;
+}
+.installation-instructions-with {
+  line-height: 22px;
+}
+.activation-time,
+.best-option {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.activation-time {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.best-option {
+  flex-direction: row;
+  gap: 8px;
+}
+.cellphonesvg-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.manual-installation-instructio {
+  position: relative;
+  line-height: 22px;
+}
+.manual-installation-instructio-wrapper {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.best-option1,
+.delete-e-s-i-m,
+.e-s-i-m-usage,
+.internet-speed,
+.manual-installation-instructio-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.best-option1 {
+  flex-direction: row;
+  gap: 8px;
+}
+.delete-e-s-i-m,
+.e-s-i-m-usage,
+.internet-speed {
+  flex-direction: column;
+}
+.internet-speed {
+  gap: 12px;
+  font-size: 16px;
+}
+.delete-e-s-i-m,
+.e-s-i-m-usage {
+  max-width: 100%;
+}
+.delete-e-s-i-m {
+  align-self: stretch;
+  gap: 38px;
+}
+.e-s-i-m-usage {
+  width: 841.2px;
+  padding: 6.5px 0 0;
+  box-sizing: border-box;
+  min-width: 841.1999999999971px;
+}
+.e-s-i-m-setup,
+.travel-installation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.travel-installation {
+  width: 1309.2px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.e-s-i-m-setup {
+  width: 1834px;
+  justify-content: center;
+  padding: 0 20px 92px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 39.8px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .e-s-i-m-usage,
+  .qr-mailsvg-icon {
+    flex: 1;
+  }
+  .travel-installation {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-313 {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .e-s-i-m-usage {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-313 {
+    font-size: 24px;
+    line-height: 25px;
+  }
+  .delete-e-s-i-m {
+    gap: 19px;
+  }
+}

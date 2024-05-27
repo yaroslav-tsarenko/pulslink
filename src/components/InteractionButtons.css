@@ -1,0 +1,148 @@
+.svg-icon14 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  min-height: 20px;
+}
+.b1,
+.container59,
+.svg-icon14 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.b1 {
+  position: relative;
+  line-height: 15px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 8px;
+}
+.container59 {
+  overflow: hidden;
+  flex-direction: row;
+}
+.button-labels,
+.container59,
+.icon-set {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-labels {
+  flex-direction: column;
+  padding: 2.5px 0 0;
+}
+.icon-set {
+  margin-left: -60.19999999999709px;
+  flex-direction: row;
+  gap: 4px;
+}
+.svg-icon15 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  min-height: 20px;
+}
+.reply5 {
+  position: relative;
+  line-height: 15px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 35.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container60 {
+  overflow: hidden;
+  flex-direction: row;
+}
+.container-wrapper7,
+.container60,
+.icon-set1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container-wrapper7 {
+  flex-direction: column;
+  padding: 2.5px 0 0;
+}
+.icon-set1 {
+  flex-direction: row;
+  gap: 4px;
+}
+.svg-icon16 {
+  align-self: stretch;
+  width: 30px;
+  position: relative;
+  max-height: 100%;
+  min-height: 20px;
+}
+.copy-link5 {
+  position: relative;
+  line-height: 15px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 58.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container61 {
+  overflow: hidden;
+  flex-direction: row;
+}
+.container-wrapper8,
+.container61,
+.horizontalborder7,
+.icon-set2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container-wrapper8 {
+  flex-direction: column;
+  padding: 2.5px 0 0;
+}
+.horizontalborder7,
+.icon-set2 {
+  flex-direction: row;
+  gap: 4px;
+}
+.horizontalborder7 {
+  align-self: stretch;
+  border-top: 1px solid #cfd9de;
+  padding: 8px 16px 5px 56px;
+  gap: 17px;
+}
+.link47 {
+  align-self: stretch;
+  height: 30px;
+}
+.interaction-bar,
+.interaction-buttons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.interaction-bar {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.interaction-buttons {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 4px 0 2px;
+  text-align: left;
+  font-size: 13px;
+  color: #536471;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .horizontalborder7 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

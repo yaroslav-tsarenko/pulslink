@@ -1,0 +1,141 @@
+.esim-australia-300x365jpg-icon {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.heading-262 {
+  position: relative;
+  line-height: 29px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 94px;
+}
+.heading-2-australia-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px;
+}
+.div213,
+.div214 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 100;
+  display: inline-block;
+  min-width: 79.6px;
+  white-space: nowrap;
+}
+.div214 {
+  text-decoration: line-through;
+  line-height: 18px;
+  min-width: 37px;
+}
+.wrapper26 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 6px 3.5px 0;
+  font-size: 15px;
+  color: #c0c3c5;
+}
+.eur31 {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  min-width: 23px;
+}
+.eur-wrapper23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.5px;
+  font-size: 12px;
+}
+.frame-wrapper40,
+.parent28 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-wrapper40 {
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.image-icon44 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent73,
+.frame-parent74,
+.item54 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent74 {
+  align-self: stretch;
+  flex: 1;
+  gap: 14.5px;
+  font-size: 30px;
+}
+.frame-parent73,
+.item54 {
+  flex-shrink: 0;
+}
+.frame-parent73 {
+  align-self: stretch;
+  height: 162.2px;
+  gap: 33.7px;
+  debug_commit: bf4bc93;
+}
+.item54 {
+  height: 479.2px;
+  width: 286px;
+  box-shadow: 0 14px 54px rgba(0, 0, 0, 0.1);
+  border-radius: 28px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 0 0 179.2px;
+  box-sizing: border-box;
+  gap: 22px;
+  text-align: left;
+  font-size: 23.4px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 925px) {
+  .div213 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .item54 {
+    padding-bottom: 116px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-262 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div213 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .frame-parent73 {
+    gap: 17px;
+  }
+}

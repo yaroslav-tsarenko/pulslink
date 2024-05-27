@@ -1,0 +1,154 @@
+.banner-appsvg-fill-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.manage-esims-like {
+  margin: 0;
+}
+.manage-esims-like-container1 {
+  width: 100%;
+}
+.manage-esims-like-container {
+  margin: 0;
+  width: 530px;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.link {
+  width: 280px;
+  height: 42.4px;
+  z-index: 1;
+}
+.image-icon {
+  width: 944.3px;
+  height: 472px;
+  position: absolute;
+  margin: 0 !important;
+  top: -99.5px;
+  right: -4.8px;
+  border-radius: 16px;
+  object-fit: contain;
+  z-index: 2;
+}
+.section,
+.section-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.section {
+  width: 1440px;
+  border-radius: 16px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 76.5px 20px 72.1px 104px;
+  position: relative;
+  gap: 69px;
+}
+.section-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 77px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 34px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+.background,
+.homepage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.background {
+  align-self: stretch;
+  height: 7997.9px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: flex-end;
+  padding: 0 0 565px;
+  gap: 24px;
+  max-width: 100%;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #f4f4f4;
+  overflow-y: auto;
+  align-items: flex-start;
+  padding: 0 0 1px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1825px) {
+  .background {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .background {
+    padding-bottom: 155px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .manage-esims-like-container {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .section {
+    gap: 34px;
+    padding-left: 52px;
+    box-sizing: border-box;
+  }
+  .background {
+    padding-bottom: 101px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .manage-esims-like-container {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .link,
+  .section {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .link {
+    padding-right: 20px;
+  }
+  .section {
+    gap: 17px;
+  }
+  .background,
+  .section-wrapper {
+    padding-bottom: 50px;
+    box-sizing: border-box;
+  }
+  .background {
+    padding-bottom: 66px;
+  }
+}

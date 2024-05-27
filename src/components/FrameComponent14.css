@@ -1,0 +1,58 @@
+.have-you-asked,
+.we-have-the,
+.you-need-to {
+  display: block;
+}
+.have-you-asked-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read24 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button37,
+.have-you-asked-yourself-does-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.button37 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.button37:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #8a5c87;
+  box-sizing: border-box;
+}
+.have-you-asked-yourself-does-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 27.1px;
+  text-align: left;
+  font-size: 16px;
+  color: #292b2e;
+  font-family: Roboto;
+}

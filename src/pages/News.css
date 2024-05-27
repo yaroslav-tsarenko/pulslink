@@ -1,0 +1,758 @@
+.heading-1 {
+  width: 86.4px;
+  position: relative;
+  line-height: 68px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 86.4px;
+}
+.heading-1-news-wrapper {
+  width: 832.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-galaxy-s24-768x392jpg {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.models-specifications-and,
+.samsung-galaxy-s24 {
+  margin: 0;
+}
+.samsung-galaxy-s24-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.by-julio-osuna {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 80.9px;
+}
+.by-julio-osuna-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 2.4px;
+  font-size: 12px;
+  color: #000;
+}
+.find-out-everything,
+.galaxy-s24-with,
+.models-released-for {
+  display: block;
+}
+.find-out-everything-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+}
+.find-out-everything-about-the-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 10.9px;
+  font-size: 16px;
+}
+.link-read {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button1:hover,
+.button2:hover,
+.button3:hover,
+.button:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #8a5c87;
+  box-sizing: border-box;
+}
+.samsung-galaxy-s24-is-official-parent {
+  flex-direction: column;
+  gap: 9.6px;
+}
+.frame-wrapper,
+.link-galaxy-s24-768x392jpg-parent,
+.samsung-galaxy-s24-is-official-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-galaxy-s24-768x392jpg-parent {
+  width: 408.5px;
+  flex-direction: column;
+  gap: 9.8px;
+}
+.link-holafly-esim-app-768x51 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.how-the-new {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.by-leoneska-ruiz {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+}
+.by-leoneska-ruiz-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 2.3px;
+  font-size: 11.8px;
+  color: #000;
+}
+.can-purchase-activate,
+.have-internet-on,
+.with-the-holafly {
+  display: block;
+}
+.with-the-pulselinkplus-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  max-width: 100%;
+}
+.with-the-pulselinkplus-esim-ap-wrapper {
+  width: 369px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+}
+.link-read1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button1,
+.how-the-new-pulselinkplus-esim-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.how-the-new-pulselinkplus-esim-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 16.2px;
+  max-width: 100%;
+}
+.frame-div,
+.link-holafly-esim-app-768x51-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-div {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 14px 0 13px;
+}
+.link-holafly-esim-app-768x51-parent {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 62px 0 0;
+  gap: 16.4px;
+  min-width: 306px;
+}
+.heading-3 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.item-link {
+  position: relative;
+  line-height: 25.6px;
+  color: inherit;
+  text-decoration: none;
+}
+.item-link-what-is-esim-an-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 14px 0 21px;
+}
+.item-link1 {
+  position: relative;
+  line-height: 25.6px;
+}
+.item-link-top-6-best-esim-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 14px 0 21px;
+}
+.best-prepaid-sim {
+  position: relative;
+  line-height: 25.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.best-prepaid-sim-cards-for-tra-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 21px;
+}
+.the-usa-in {
+  position: relative;
+  line-height: 25.6px;
+  display: inline-block;
+  min-width: 116.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link2 {
+  position: relative;
+  line-height: 25.6px;
+}
+.item-link-5-best-sim-cards-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 0 21px;
+}
+.item-link3 {
+  position: relative;
+  line-height: 25.6px;
+}
+.item-link-top-6-best-esim-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 22px 0 21px;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 10px;
+  font-size: 16px;
+}
+.frame-parent1,
+.frame-wrapper1,
+.heading-3-popular-posts-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-popular-posts-parent {
+  align-self: stretch;
+  gap: 22.2px;
+}
+.frame-wrapper1 {
+  height: 439.5px;
+  width: 298.8px;
+  font-size: 28px;
+  color: #000;
+}
+.frame-container,
+.frame-parent3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  align-items: flex-end;
+}
+.frame-parent3 {
+  width: 833px;
+  align-items: flex-start;
+}
+.link-esim-evolution-768x392 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.esim-evolution-integration,
+.mobile-devices-over {
+  display: block;
+}
+.esim-evolution-integration-container {
+  margin: 0;
+  position: relative;
+  line-height: 26.4px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.by-manuel-m {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 72.3px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.evolved-through,
+.miss-it-read,
+.the-esim-revolution {
+  display: block;
+}
+.the-esim-revolution-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 19.2px;
+  color: #292b2e;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.by-manuel-m-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  gap: 11.9px;
+  font-size: 11.8px;
+  color: #000;
+}
+.link-read2 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button2 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.esim-evolution-integration-ac-parent {
+  flex-direction: column;
+  gap: 9.6px;
+}
+.esim-evolution-integration-ac-parent,
+.frame-wrapper2,
+.link-esim-evolution-768x392-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+.link-esim-evolution-768x392-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 9.8px;
+  min-width: 265px;
+}
+.frame-parent4 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.link-holafly-launches-esim-w {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.europe,
+.holafly-launches-esim {
+  margin: 0;
+}
+.pulselinkplus-launches-esim-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26.4px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.pulselinkplus-launches-esim-wi-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-leoneska-ruiz1 {
+  position: relative;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 93.4px;
+}
+.by-leoneska-ruiz-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px;
+  font-size: 11.8px;
+  color: #000;
+}
+.having-an-esim,
+.possible-discover-this,
+.travels-with-holafly {
+  display: block;
+}
+.having-an-esim-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.link-read3 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #643560;
+  text-align: center;
+  display: inline-block;
+  min-width: 78.6px;
+}
+.button3 {
+  cursor: pointer;
+  border: 1px solid #643560;
+  padding: 5px 14px 5px 16px;
+  background-color: #fff;
+  width: 110.4px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.having-an-esim-with-calling-in-parent {
+  flex-direction: column;
+  gap: 20.5px;
+}
+.frame-wrapper3,
+.having-an-esim-with-calling-in-parent,
+.link-holafly-launches-esim-w-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  flex-direction: row;
+  padding: 0 13px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.link-holafly-launches-esim-w-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 10.5px;
+  min-width: 265px;
+}
+.frame-parent5 {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  max-width: 100%;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 43px;
+  text-align: left;
+  font-size: 22px;
+  color: #292b2e;
+}
+.background-inner,
+.frame-group,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1210px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 28px;
+}
+.background-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 59.8px 46px;
+  box-sizing: border-box;
+}
+.heading-31 {
+  position: relative;
+  line-height: 21.53px;
+  font-weight: 700;
+}
+.asia,
+.caribbean,
+.europe1,
+.latin-america,
+.north-america,
+.united-kingdom {
+  display: block;
+}
+.item-link-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 18.4px;
+  z-index: 1;
+}
+.button4 {
+  align-self: stretch;
+  height: 52px;
+}
+.background,
+.heading-3-related-products-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.heading-3-related-products-parent {
+  width: 196.3px;
+  padding: 0 20px 0 0;
+  gap: 0.1px;
+  text-align: left;
+  font-size: 18.7px;
+}
+.background {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 0 0 50px;
+  gap: 29px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 34px;
+  color: #000;
+  font-family: Roboto;
+}
+.image-icon {
+  width: 1px;
+  height: 1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  display: none;
+}
+.news {
+  width: 100%;
+  position: relative;
+  background-color: #f4f4f4;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .background-inner {
+    padding-left: 23px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+  }
+  .background {
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-1 {
+    font-size: 27px;
+    line-height: 54px;
+  }
+  .link-holafly-esim-app-768x51-parent {
+    padding-right: 31px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    gap: 21px;
+  }
+  .background,
+  .background-inner {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .news {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 20px;
+    line-height: 41px;
+  }
+  .how-the-new,
+  .samsung-galaxy-s24-container {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .heading-3 {
+    font-size: 22px;
+    line-height: 29px;
+  }
+  .esim-evolution-integration-container,
+  .pulselinkplus-launches-esim-container {
+    font-size: 18px;
+    line-height: 21px;
+  }
+}

@@ -1,0 +1,105 @@
+.mask-group-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+}
+.path-icon {
+  align-self: stretch;
+  height: 20.5px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.path-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 7.7px;
+}
+.mask {
+  width: 148.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10.1px;
+}
+.mastercard-iconsvg,
+.visa-iconsvg {
+  align-self: stretch;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.visa-iconsvg {
+  width: 59px;
+  object-fit: contain;
+}
+.mastercard-iconsvg {
+  width: 48px;
+}
+.googlepaysvg-icon {
+  width: 53px;
+}
+.apple-pay-iconsvg,
+.googlepaysvg-icon,
+.paypal-iconsvg {
+  align-self: stretch;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.paypal-iconsvg {
+  width: 89px;
+  object-fit: contain;
+}
+.apple-pay-iconsvg {
+  width: 51px;
+}
+.payment,
+.section3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.section3 {
+  flex: 1;
+  background-color: #f8f8fb;
+  justify-content: space-between;
+  padding: 45px 654px 45px 615px;
+  gap: 20px;
+}
+.payment {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 76.7px;
+}
+@media screen and (max-width: 1825px) {
+  .section3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .section3 {
+    padding-left: 307px;
+    padding-right: 327px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .section3 {
+    padding-left: 153px;
+    padding-right: 163px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,340 @@
+.pngwing-1-icon {
+  width: 661.2px;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  max-width: 100%;
+  z-index: 1;
+}
+.div13,
+.review-heading {
+  position: relative;
+  line-height: 48px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 64px;
+}
+.div13 {
+  line-height: 34px;
+  min-width: 34.5px;
+}
+.review-subheading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 8px 3px 0;
+  margin-left: -0.9px;
+  font-size: 34px;
+}
+.star-trustpilotsvg-icon {
+  width: 40px;
+  height: 38px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.star-trustpilotsvg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 30px 7.2px 0;
+  margin-left: -0.9px;
+}
+.based-on-37000,
+.customer-reviews-on {
+  margin: 0;
+}
+.based-on-37000-container,
+.trustpilot {
+  position: relative;
+  line-height: 22px;
+}
+.trustpilot {
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 69.4px;
+}
+.trustpilot-source {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4.8px;
+}
+.trustpilot-source-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2px;
+  margin-left: -0.9px;
+  font-size: 16px;
+}
+.background30 {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #f8f8fb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 32px 312px;
+  box-sizing: border-box;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.heading-1 {
+  position: relative;
+  line-height: 18.4px;
+}
+.manage-esims-for {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 62px;
+  line-height: 70px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.with-pulselinkpluss-esim {
+  margin: 0;
+  width: 520px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.locationsvg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.vertical-divider1 {
+  position: absolute;
+  top: 5px;
+  left: 34px;
+  background-color: #e4e6ea;
+  width: 1px;
+  height: 16px;
+}
+.locationsvg-parent {
+  height: 26px;
+  width: 35px;
+  position: relative;
+}
+.location-placeholder {
+  width: calc(100% - 52px);
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 19px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  box-sizing: border-box;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #9d9d9d;
+  min-width: 138px;
+}
+.location-input {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.location-input-wrapper {
+  width: 263.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+}
+.searchpng-icon {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 13px);
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.button-search {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 14px;
+  background-color: #ffa51f;
+}
+.e-sim-content,
+.form {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.form {
+  width: 424.6px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 10px 6px 18px;
+  gap: 20px;
+}
+.e-sim-content {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 22px;
+}
+.e-sim-content-wrapper,
+.hero-content,
+.section2 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.e-sim-content-wrapper {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 115px;
+  min-width: 482px;
+  min-height: 447px;
+  font-size: 16px;
+}
+.hero-content,
+.section2 {
+  flex-direction: row;
+}
+.section2 {
+  flex: 1;
+  align-items: flex-end;
+  padding: 36px 94px 111.5px 373px;
+  position: relative;
+  gap: 49.5px;
+  background-image: url(/public/section@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hero-content {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 55.5px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 44.6px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1825px) {
+  .pngwing-1-icon {
+    flex: 1;
+  }
+  .background30,
+  .section2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .background30 {
+    padding-left: 156px;
+    padding-right: 156px;
+    box-sizing: border-box;
+  }
+  .e-sim-content-wrapper {
+    min-width: 100%;
+  }
+  .section2 {
+    padding-left: 186px;
+    padding-right: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .review-heading {
+    font-size: 36px;
+    line-height: 38px;
+  }
+  .div13 {
+    font-size: 27px;
+    line-height: 27px;
+  }
+  .background30 {
+    padding-left: 78px;
+    padding-right: 78px;
+    box-sizing: border-box;
+  }
+  .manage-esims-for {
+    font-size: 50px;
+    line-height: 56px;
+  }
+  .form {
+    flex-wrap: wrap;
+  }
+  .section2 {
+    gap: 25px;
+    padding: 23px 23px 72px 93px;
+    box-sizing: border-box;
+  }
+  .hero-content {
+    padding-bottom: 36px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .review-heading {
+    font-size: 27px;
+    line-height: 29px;
+  }
+  .div13 {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .trustpilot-source {
+    flex-wrap: wrap;
+  }
+  .background30 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .manage-esims-for {
+    font-size: 37px;
+    line-height: 42px;
+  }
+  .location-input {
+    flex-wrap: wrap;
+  }
+  .e-sim-content-wrapper,
+  .hero-content {
+    padding-bottom: 75px;
+    box-sizing: border-box;
+  }
+  .hero-content {
+    padding-bottom: 23px;
+  }
+}

@@ -1,0 +1,500 @@
+.heading-25 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.choose-your-destination {
+  flex: 1;
+  position: relative;
+  line-height: 18.4px;
+  display: inline-block;
+  max-width: 100%;
+}
+.destinations-description {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 68px 0 67px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.destinations-description,
+.destinations-heading,
+.destinations-title {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.destinations-heading {
+  width: 655.8px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 27.8px;
+}
+.destinations-title {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.image-icon8 {
+  position: absolute;
+  right: 1px;
+  bottom: 1px;
+  border-radius: 16px;
+  width: 180px;
+  height: 40px;
+}
+.esim3 {
+  position: absolute;
+  top: 41px;
+  left: 105px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  width: 32px;
+  height: 20px;
+  min-width: 32px;
+}
+.japanpng-icon {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(2.667);
+}
+.wrapper-japanpng {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 37px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eur2,
+.from-6001,
+.japan {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.eur2,
+.from-6001 {
+  min-width: 105.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.eur2 {
+  line-height: 16px;
+  font-weight: 700;
+  min-width: 26.1px;
+}
+.eur-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  font-size: 12px;
+}
+.from-600-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+  font-size: 20px;
+}
+.japan-parent {
+  flex-direction: column;
+  gap: 4px;
+}
+.frame-wrapper6,
+.japan-parent,
+.wrapper-japanpng-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper6 {
+  flex-direction: column;
+  padding: 6px 0 0;
+}
+.wrapper-japanpng-parent {
+  position: absolute;
+  top: 59px;
+  left: 33px;
+  height: 66px;
+  flex-direction: row;
+  gap: 24px;
+  font-size: 21.5px;
+  color: #000;
+}
+.link-japan {
+  height: 166px;
+  width: 368px;
+  position: relative;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.thailandpng-icon {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(2.667);
+}
+.wrapper-thailandpng {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-radius: 37px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-thailandpng-wrapper {
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 0 0;
+  box-sizing: border-box;
+}
+.esim4,
+.eur3,
+.from-6002,
+.thailand {
+  position: relative;
+  display: inline-block;
+}
+.esim4 {
+  line-height: 20px;
+  color: #292b2e;
+  min-width: 32px;
+}
+.eur3,
+.from-6002,
+.thailand {
+  line-height: 28px;
+  font-weight: 500;
+}
+.thailand {
+  font-size: 21.5px;
+  min-width: 84px;
+}
+.eur3,
+.from-6002 {
+  min-width: 105.8px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.eur3 {
+  line-height: 16px;
+  font-weight: 700;
+  min-width: 26.1px;
+}
+.eur-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+  font-size: 12px;
+}
+.from-600-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.8px;
+}
+.image-icon9 {
+  height: 40px;
+  width: 180px;
+  position: relative;
+  border-radius: 16px;
+}
+.image-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.frame-parent11 {
+  align-self: stretch;
+  flex-direction: column;
+  font-size: 20px;
+}
+.destination-links,
+.esim-group,
+.frame-parent11,
+.link-thailand {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.esim-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 170px;
+}
+.destination-links,
+.link-thailand {
+  flex-direction: row;
+  max-width: 100%;
+}
+.link-thailand {
+  width: 368px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  padding: 39px 0 0 32px;
+  gap: 24px;
+  color: #000;
+}
+.destination-links {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 24px 22px;
+  min-height: 546px;
+  text-align: left;
+  font-size: 14px;
+}
+.link37 {
+  height: 40px;
+  width: 368.6px;
+  max-width: 100%;
+}
+.destinations-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.destinations-title-parent {
+  width: 1152px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40.1px;
+  max-width: 100%;
+}
+.destinations-content-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pngwing-2-icon1 {
+  width: 344.5px;
+  height: 344.5px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -39.8px;
+  left: -32.2px;
+  object-fit: cover;
+}
+.heading-4 {
+  margin: 0;
+  width: 359.5px;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.link38 {
+  height: 42.4px;
+  width: 280px;
+  z-index: 1;
+}
+.figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 978.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 13.5px 19px 26.1px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.purchase-your-pulselinkplus {
+  margin: 0;
+  position: absolute;
+  top: 17px;
+  left: 0;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  width: 519.7px;
+  z-index: 1;
+}
+.plan-change-caption {
+  align-self: stretch;
+  height: 105px;
+  position: relative;
+  max-width: 100%;
+  margin-top: -5px;
+  font-size: 16px;
+  color: #292b2e;
+}
+.destinations-content,
+.section-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.section-figure {
+  align-self: stretch;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #efd5ff, #fff2d1);
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  padding: 67px 82px 67px 337px;
+  position: relative;
+  text-align: left;
+  font-size: 22px;
+  color: #000;
+}
+.destinations-content {
+  width: 1400px;
+  gap: 101.1px;
+}
+.destinations-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 138.8px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 34px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1350px) {
+  .section-figure {
+    padding-left: 168px;
+    padding-right: 41px;
+    box-sizing: border-box;
+  }
+  .destinations-content-wrapper {
+    padding-bottom: 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-25 {
+    font-size: 27px;
+    line-height: 32px;
+  }
+  .destinations-description {
+    padding-left: 33px;
+    padding-right: 34px;
+    box-sizing: border-box;
+  }
+  .destinations-title-parent {
+    gap: 20px;
+  }
+  .section-figure {
+    padding-left: 84px;
+    box-sizing: border-box;
+  }
+  .destinations-content {
+    gap: 51px;
+  }
+  .destinations-content-wrapper {
+    padding-bottom: 58px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-25 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .from-6001,
+  .japan {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .from-6001 {
+    font-size: 16px;
+  }
+  .from-6002,
+  .thailand {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .from-6002 {
+    font-size: 16px;
+  }
+  .link-thailand {
+    flex-wrap: wrap;
+  }
+  .link-thailand,
+  .link37 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-4 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .section-figure {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .destinations-content {
+    gap: 25px;
+  }
+}

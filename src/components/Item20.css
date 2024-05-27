@@ -1,0 +1,137 @@
+.esim-albania-300x365jpg-icon {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.heading-258 {
+  position: relative;
+  line-height: 29px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 80px;
+}
+.heading-2-albania-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px;
+}
+.div205,
+.div206 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 100;
+  display: inline-block;
+  min-width: 90.3px;
+  white-space: nowrap;
+}
+.div206 {
+  text-decoration: line-through;
+  line-height: 18px;
+  min-width: 45.7px;
+}
+.wrapper22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 6px 3.5px 0;
+  font-size: 15px;
+  color: #c0c3c5;
+}
+.eur27 {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  min-width: 23px;
+}
+.eur-wrapper20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.5px;
+  font-size: 12px;
+}
+.frame-wrapper35,
+.parent24 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-wrapper35 {
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.image-icon40 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent66 {
+  align-self: stretch;
+  flex: 1;
+  gap: 14.5px;
+  font-size: 30px;
+}
+.frame-parent65,
+.frame-parent66,
+.item50 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent65 {
+  align-self: stretch;
+  height: 162.2px;
+  gap: 33.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.item50 {
+  height: 479.2px;
+  box-shadow: 0 14px 54px rgba(0, 0, 0, 0.1);
+  border-radius: 28px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 0 0 179.2px;
+  box-sizing: border-box;
+  gap: 22px;
+  text-align: left;
+  font-size: 23.6px;
+  color: #292b2e;
+  font-family: Roboto;
+}
+@media screen and (max-width: 925px) {
+  .div205 {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .item50 {
+    padding-bottom: 116px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-258 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .div205 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .frame-parent65 {
+    gap: 17px;
+  }
+}

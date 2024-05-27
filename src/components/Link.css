@@ -1,0 +1,132 @@
+.container-icon2 {
+  bottom: -1px;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background19,
+.container-icon2,
+.gradient11 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 100%;
+  height: 100%;
+}
+.background19 {
+  border-radius: 333.33px;
+  background-color: #fff;
+  opacity: 0.12;
+}
+.gradient11 {
+  background: linear-gradient(
+    240.64deg,
+    rgba(255, 255, 255, 0.19),
+    rgba(0, 0, 0, 0.17) 26.27%,
+    rgba(255, 255, 255, 0.17) 37%,
+    rgba(0, 0, 0, 0.35) 48.7%,
+    rgba(0, 0, 0, 0.15) 59.44%,
+    rgba(255, 255, 255, 0.19) 73.64%,
+    rgba(39, 39, 39, 0.14) 90.15%,
+    rgba(0, 0, 0, 0.13)
+  );
+  overflow: hidden;
+}
+.overlaybordershadow1 {
+  position: absolute;
+  top: calc(50% - 24.95px);
+  left: 33px;
+  box-shadow: 0 4px 40px #eee, 0 4px 8px rgba(66, 71, 76, 0.05),
+    0 0 0.5px rgba(66, 71, 76, 0.32);
+  border-radius: 30.83px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.usa2 {
+  position: absolute;
+  top: 24.8px;
+  left: 97px;
+  font-size: 16.8px;
+  line-height: 19.32px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  width: 33.3px;
+  height: 19.3px;
+  text-decoration: none;
+  min-width: 33.3px;
+}
+.from1 {
+  top: 48.3px;
+  left: 97px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 37.4px;
+  height: 24px;
+  min-width: 37.4px;
+}
+.div248,
+.eur49,
+.from1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div248 {
+  top: 48.3px;
+  left: 140.2px;
+  line-height: 24px;
+  font-weight: 500;
+  width: 43.1px;
+  height: 24px;
+  min-width: 43.1px;
+  white-space: nowrap;
+}
+.eur49 {
+  top: 53.3px;
+  left: 187px;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  width: 23px;
+  height: 16px;
+  min-width: 23px;
+}
+.svg-icon10,
+.svg-icon11 {
+  position: absolute;
+  right: 1px;
+  bottom: 1px;
+  width: 180px;
+  height: 40px;
+}
+.svg-icon11 {
+  right: 17px;
+  bottom: 9px;
+  width: 24px;
+  height: 24px;
+}
+.link15 {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 416px);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 416px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #e4e6ea;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #292b2e;
+  font-family: Roboto;
+}
